@@ -1,6 +1,9 @@
 # ExpenseTracker
 
-Expense Management App: A project I developed to enhance my coding skills
+## Overview
+
+ExpenseTracker is a user-friendly application designed for efficient expense management. Developed to enhance my coding skills, this project provides an intuitive platform for tracking and managing personal expenses.
+
 
 ![Adsız tasarım](https://github.com/user-attachments/assets/80f28c68-49f8-4d9b-9b22-c49efcf83ef3)
 
